@@ -1,2 +1,2 @@
 [tools]
-tflint = "0.58.0"  # inline comment
+tflint = "0.58.1"  # inline comment
