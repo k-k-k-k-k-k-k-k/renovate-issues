@@ -1,5 +1,5 @@
 terraform {
 /*  
-  source = "tfr://registry.terraform.io/terraform-aws-modules/s3-bucket/aws?version=4.0.0"
+  source = "tfr://registry.terraform.io/terraform-aws-modules/s3-bucket/aws?version=4.11.0"
 */  source = "tfr://registry.terraform.io/terraform-aws-modules/iam/aws?version=5.0.0"
 }
