@@ -1,6 +1,6 @@
-# 37718
+# 37854
 
-Reproduction for renovatebot/renovate#37718.
+Reproduction for renovatebot/renovate#37854.
 
 ## Current behavior
 
